@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\EriAssignment3\bin\Debug\EriAssignment3.exe.config
+C:\Users\DELL\source\repos\EriAssignment3\bin\Debug\EriAssignment3.exe
+C:\Users\DELL\source\repos\EriAssignment3\bin\Debug\EriAssignment3.pdb
+C:\Users\DELL\source\repos\EriAssignment3\obj\Debug\EriAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EriAssignment3\obj\Debug\EriAssignment3.exe
+C:\Users\DELL\source\repos\EriAssignment3\obj\Debug\EriAssignment3.pdb
